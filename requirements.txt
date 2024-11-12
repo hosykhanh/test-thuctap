@@ -1,0 +1,10 @@
+# Danh sách các thư viện Python cần cài đặt
+fastapi
+uvicorn
+sqlalchemy
+bcrypt
+pydantic
+pydantic_settings
+pydantic[email]
+python-dotenv
+python-jose
